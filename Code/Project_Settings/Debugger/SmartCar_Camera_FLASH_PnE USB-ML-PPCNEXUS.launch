@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.freescale.cdt.launch.cw.download">
+<stringAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Debugger PIC Settings Panel.altLoadAddr" value="0"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Debugger PIC Settings Panel.enableAltLoadAddr" value="false"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.EPPC Debugger.processor" value="MPC5604B"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Download.IDconstant" value="true"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Download.IDexecutable" value="true"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Download.IDinitialized" value="true"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Download.IDuninitialized" value="true"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Download.IVconstant" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Download.IVexecutable" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Download.IVinitialized" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Download.IVuninitialized" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Download.SDconstant" value="true"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Download.SDexecutable" value="true"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Download.SDinitialized" value="true"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Download.SDuninitialized" value="true"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Download.SVconstant" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Download.SVexecutable" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Download.SVinitialized" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Download.SVuninitialized" value="false"/>
+<intAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Initialization.coreIndex" value="0"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Initialization.homogeneousMulticore" value="true"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Initialization.initPath" value="${ProjDirPath}/Project_Settings/Debugger/MPC5604B_VLE.tcl"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Initialization.memConfigPath" value="${ProjDirPath}/Project_Settings/Debugger/MPC5604B.mem"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Initialization.simulator" value=""/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Initialization.smp" value="false"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Initialization.systemType" value="com.freescale.cw.system.eppc.MPC56xxB.MPC5604B"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Initialization.useInitFile" value="true"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.Embedded Initialization.useMemoryConfigFile" value="true"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.System Call Service.doMountRoot" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.System Call Service.doRedirectStdout" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.System Call Service.doRedirectTrace" value="false"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.System Call Service.rootFolder" value=""/>
+<stringAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.System Call Service.stdoutFile" value=""/>
+<stringAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.System Call Service.traceFile" value=""/>
+<intAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.System Call Service.traceLevel" value="1"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.System Call Service.useSharedConsole" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.System Call Service.useSyscalls" value="false"/>
+<listAttribute key="com.freescale.cdt.debug.cw.CoreNameList">
+<listEntry value="e200z0h#0"/>
+</listAttribute>
+<listAttribute key="com.freescale.cdt.debug.cw.Debug"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.DebuggerTab.StopAtExit" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.DebuggerTab.StopAtProgramEntryPoint" value="true"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.DebuggerTab.StopAtStartUp" value="true"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.DebuggerTab.StopAtUserSpecified" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.Embedded Download.ExecuteTasks" value="true"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.Embedded Download.StandardDownload" value="true"/>
+<listAttribute key="com.freescale.cdt.debug.cw.Embedded Download.TaskInitialLaunches">
+<listEntry value="true"/>
+</listAttribute>
+<listAttribute key="com.freescale.cdt.debug.cw.Embedded Download.TaskNames">
+<listEntry value="${ProjDirPath}/Project_Settings/Debugger/MPC5604B_VLE.tcl"/>
+</listAttribute>
+<listAttribute key="com.freescale.cdt.debug.cw.Embedded Download.TaskSuccessiveRuns">
+<listEntry value="true"/>
+</listAttribute>
+<listAttribute key="com.freescale.cdt.debug.cw.Embedded Download.TaskTypes">
+<listEntry value="___CLDE_SCRIPT___"/>
+</listAttribute>
+<listAttribute key="com.freescale.cdt.debug.cw.ExecutablePath"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.PN_StopAtExit" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.PN_StopAtProgramEntryPoint" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.PN_StopAtStartUp" value="true"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.PN_StopAtUserSpecified" value="true"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.RefreshPolicy.RefreshPeriod" value="2.0"/>
+<listAttribute key="com.freescale.cdt.debug.cw.RemoteDownload"/>
+<listAttribute key="com.freescale.cdt.debug.cw.RemotePath"/>
+<listAttribute key="com.freescale.cdt.debug.cw.SMPCores"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.SYNC_WITH_ENCL_PROJ" value="true"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.Symbolics.CacheSymbolicsBetweenRuns" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.Symbolics.UseExecutableCopy" value="false"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.UDPPort" value="1234"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.core.settings.ConnectionCommonData.TargetConnectionLost.RetryConnectionOn" value="false"/>
+<intAttribute key="com.freescale.cdt.debug.cw.core.settings.ConnectionCommonData.TargetConnectionLost.RetryTimeout" value="20"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.core.settings.ConnectionCommonData.TargetConnectionLost.RetryWithTimeoutOn" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.core.settings.ConnectionCommonData.TargetConnectionLost.TerminateConnectionOn" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.core.settings.ConnectionCommonData.TargetConnectionLost.promptUserActionOn" value="true"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.core.settings.DebuggerCommonData.Connection Protocol Plugin Name" value="EPPC GDI"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.core.settings.DebuggerCommonData.Connection Type" value="com.pemicro.mcu.debug.connections.pne.eppc"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.core.settings.DebuggerCommonData.Processor Attr Name" value="com.freescale.cdt.debug.cw.CW_SHADOWED_PREF.EPPC Debugger.processor"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.core.settings.GdiConnection.Common.PhysicalConnectionAttributeBase" value="com.pemicro.mcu.debug.connections.pne.eppc."/>
+<stringAttribute key="com.freescale.cdt.debug.cw.core.settings.GdiConnection.Common.SimulatorConnectionAttributeBase" value=""/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.core.settings.GdiConnection.Common.logData" value="false"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.core.settings.rseSystemId" value="com.freescale.cdt.debug.cw.core.ui.rse.systemtype.bareboard.hardware.130315015306-0300.1"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.core.settings.wizardSystemNameHint" value="PnE USB-ML-PPCNEXUS"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.debuggerAddress" value="127.0.0.1"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.disableIO" value="false"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.ethCtrl" value="UEC1"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.executePerCoresReset" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.executePerprocessorReset" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.executeReset" value="false"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.gateway" value="127.0.0.1"/>
+<listAttribute key="com.freescale.cdt.debug.cw.initPathList">
+<listEntry value="${ProjDirPath}/Project_Settings/Debugger/MPC5604B_VLE.tcl"/>
+</listAttribute>
+<stringAttribute key="com.freescale.cdt.debug.cw.macAddress" value="**-**-**-**-**-**"/>
+<listAttribute key="com.freescale.cdt.debug.cw.memConfigPathList">
+<listEntry value="${ProjDirPath}/Project_Settings/Debugger/MPC5604B.mem"/>
+</listAttribute>
+<stringAttribute key="com.freescale.cdt.debug.cw.netMask" value="255.255.255.255"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.osawareness.osContributorID" value="None"/>
+<stringAttribute key="com.freescale.cdt.debug.cw.osawareness.rtospluginname" value=""/>
+<stringAttribute key="com.freescale.cdt.debug.cw.osawareness.targetos" value="None"/>
+<listAttribute key="com.freescale.cdt.debug.cw.perCoreResetList"/>
+<listAttribute key="com.freescale.cdt.debug.cw.perProcessorResetList"/>
+<listAttribute key="com.freescale.cdt.debug.cw.runOutOfResetList">
+<listEntry value="false"/>
+</listAttribute>
+<stringAttribute key="com.freescale.cdt.debug.cw.targetAddress" value="127.0.0.1"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.useGateway" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.useHSSTIO" value="false"/>
+<listAttribute key="com.freescale.cdt.debug.cw.useInitPathList">
+<listEntry value="true"/>
+</listAttribute>
+<booleanAttribute key="com.freescale.cdt.debug.cw.useMacAddress" value="false"/>
+<listAttribute key="com.freescale.cdt.debug.cw.useMemConfigPathList">
+<listEntry value="true"/>
+</listAttribute>
+<booleanAttribute key="com.freescale.cdt.debug.cw.useNetworkTransferIO" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.useSerialTransferIO" value="false"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.useStopTransferIO" value="true"/>
+<booleanAttribute key="com.freescale.cdt.debug.cw.useUDPPort" value="false"/>
+<listAttribute key="com.freescale.panel.list">
+<listEntry value="Debugger Common Settings"/>
+<listEntry value="EPPC Exceptions"/>
+<listEntry value="Embedded Download"/>
+<listEntry value="Debugger PIC Settings Panel"/>
+<listEntry value="System Call Service"/>
+<listEntry value="Other Executables"/>
+<listEntry value="Symbolics"/>
+<listEntry value="osawareness"/>
+</listAttribute>
+<booleanAttribute key="com.freescale.sa.mcu.launch.ENABLE_ANALYSIS" value="false"/>
+<booleanAttribute key="com.freescale.sa.mcu.launch.ENABLE_LOGGING" value="false"/>
+<booleanAttribute key="com.freescale.sa.mcu.launch.SET_TGT_SETTING_ON_RUN" value="false"/>
+<stringAttribute key="com.pemicro.mcu.debug.connections.pne.eppc.CommandLineArgs" value=""/>
+<stringAttribute key="com.pemicro.mcu.debug.connections.pne.eppc.ConfigFile" value=""/>
+<stringAttribute key="com.pemicro.mcu.debug.connections.pne.eppc.Library" value="eppc_pne_gdi"/>
+<stringAttribute key="com.pemicro.mcu.debug.connections.pne.eppc.PEDEBUG_CURRENTDEVICE" value="MPC5604B"/>
+<stringAttribute key="com.pemicro.mcu.debug.connections.pne.eppc.PEDEBUG_DO_DEBUG_OUTPUT" value="0"/>
+<stringAttribute key="com.pemicro.mcu.debug.connections.pne.eppc.RESET_DELAY" value="0"/>
+<stringAttribute key="com.pemicro.mcu.debug.connections.pne.eppc.STARTUP_PCI_DELAY" value="0"/>
+<stringAttribute key="com.pemicro.mcu.debug.connections.pne.eppc.STARTUP_PORT" value="21"/>
+<stringAttribute key="com.pemicro.mcu.debug.connections.pne.eppc.STARTUP_interface_selection" value="1"/>
+<stringAttribute key="com.pemicro.mcu.debug.connections.pne.eppc.names_of_user_added_attributes" value=""/>
+<intAttribute key="org.eclipse.cdt.launch.ATTR_BUILD_BEFORE_LAUNCH_ATTR" value="2"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_ID" value="com.freescale.cdt.debug.cw.eppc.EPPCDebugger"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_REGISTER_GROUPS" value=""/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_START_MODE" value="run"/>
+<booleanAttribute key="org.eclipse.cdt.launch.DEBUGGER_STOP_AT_MAIN" value="true"/>
+<stringAttribute key="org.eclipse.cdt.launch.DEBUGGER_STOP_AT_MAIN_SYMBOL" value="main"/>
+<booleanAttribute key="org.eclipse.cdt.launch.ENABLE_REGISTER_BOOKKEEPING" value="false"/>
+<booleanAttribute key="org.eclipse.cdt.launch.ENABLE_RESTORE_WATCHPOINTS" value="true"/>
+<booleanAttribute key="org.eclipse.cdt.launch.ENABLE_VARIABLE_BOOKKEEPING" value="false"/>
+<stringAttribute key="org.eclipse.cdt.launch.FORMAT" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&lt;contentList&gt;&lt;content id=&quot;[61]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[62]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[63]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[64]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[65]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[66]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[67]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[68]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[69]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[70]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[71]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[72]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[73]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[74]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[75]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[76]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[77]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[78]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[79]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[80]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[81]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[82]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[83]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[84]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[85]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[86]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[87]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[88]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[89]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[90]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[91]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[92]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[93]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[94]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[95]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[96]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[97]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[98]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[99]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[100]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[101]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[102]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[103]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[104]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[105]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[106]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[107]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[108]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[109]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[110]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[111]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[112]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[113]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[114]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[115]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[116]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[117]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[118]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[119]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[120]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[121]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[122]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[123]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[124]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[125]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[126]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[127]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[0]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[1]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[2]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[3]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[4]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[5]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[6]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[7]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[8]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[9]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[10]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[11]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[12]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[13]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[14]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[15]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[16]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[17]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[18]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[19]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[20]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[21]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[22]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[23]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[24]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[25]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;[26]-lineADC-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;j-SignalProcessing-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;line_middle-SignalProcessing-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;i-SignalProcessing-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;line_middle-SwIrq4ISR-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;middlePoint-LineProcessing-(format)&quot; val=&quot;1&quot;/&gt;&lt;content id=&quot;line_middle-LineProcessing-(format)&quot; val=&quot;1&quot;/&gt;&lt;/contentList&gt;"/>
+<stringAttribute key="org.eclipse.cdt.launch.GLOBAL_VARIABLES" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;globalVariableList/&gt;&#13;&#10;"/>
+<stringAttribute key="org.eclipse.cdt.launch.MEMORY_BLOCKS" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?&gt;&#13;&#10;&lt;memoryBlockExpressionList/&gt;&#13;&#10;"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROGRAM_NAME" value="FLASH/SmartCar_Camera.elf"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_ATTR" value="Code"/>
+<stringAttribute key="org.eclipse.cdt.launch.PROJECT_BUILD_CONFIG_ID_ATTR" value="com.freescale.ppc.debug.toolchain.configuration.1088624664"/>
+<intAttribute key="org.eclipse.cdt.launch.SET_REGULAR_BREAKPOINT_TYPE_AS" value="0"/>
+<booleanAttribute key="org.eclipse.cdt.launch.USE_SET_REGULAR_BREAKPOINT_TYPE_AS" value="false"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/Code"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+<booleanAttribute key="org.eclipse.debug.ui.ATTR_REDIRECT_TO_SERVER_SOCKET" value="false"/>
+<booleanAttribute key="org.eclipse.debug.ui.ATTR_REDIRECT_TO_SOCKET" value="false"/>
+<stringAttribute key="org.eclipse.debug.ui.ATTR_REDIRECT_TO_SOCKET_HOST" value=""/>
+<stringAttribute key="org.eclipse.debug.ui.ATTR_REDIRECT_TO_SOCKET_PORT" value=""/>
+<stringAttribute key="process_factory_id" value="com.freescale.cdt.debug.cw.core.ProcessFactoryID"/>
+</launchConfiguration>

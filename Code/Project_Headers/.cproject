@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?>
+
+<cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="com.freescale.coldfire.cdt.gcc.cpp.toolchain.linux.debug.728811664">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="com.freescale.coldfire.cdt.gcc.cpp.toolchain.linux.debug.728811664" moduleId="org.eclipse.cdt.core.settings" name="ColdFire GNU Linux Debug">
+				<externalSettings/>
+				<extensions>
+					<extension id="com.freescale.core.ide.cdt.errorParsers.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.MakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.ELF" point="org.eclipse.cdt.core.BinaryParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration buildProperties="" description="" id="com.freescale.coldfire.cdt.gcc.cpp.toolchain.linux.debug.728811664" isPrebuildInvalidatingBuild="false" name="ColdFire GNU Linux Debug" parent="org.eclipse.cdt.build.core.emptycfg">
+					<folderInfo id="com.freescale.coldfire.cdt.gcc.cpp.toolchain.linux.debug.728811664.1118590442" name="/" resourcePath="">
+						<toolChain id="com.freescale.coldfire.cdt.gcc.cpp.toolchain.linux.debug.1383404041" name="com.freescale.coldfire.cdt.gcc.cpp.toolchain.linux.debug" superClass="com.freescale.coldfire.cdt.gcc.cpp.toolchain.linux.debug">
+							<targetPlatform archList="all" binaryParser="org.eclipse.cdt.core.ELF" id="com.freescale.coldfire.cdt.gcc.toolchain.platform.1447147265" name="ColdFire Target Platform Linux" superClass="com.freescale.coldfire.cdt.gcc.toolchain.platform"/>
+							<builder buildPath="${ProjDirPath}/" id="com.freescale.coldfire.cdt.gcc.toolchain.cpp.linux.debug.builder.1600268693" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="ColdFire GNU Linux Debug Builder" superClass="com.freescale.coldfire.cdt.gcc.toolchain.cpp.linux.debug.builder"/>
+							<tool id="com.freescale.coldfire.cdt.gcc.linux.cpp.linker.debug.299126443" name="ColdFire Linux C++ Linker" superClass="com.freescale.coldfire.cdt.gcc.linux.cpp.linker.debug">
+								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.1176503462" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+							<tool id="com.freescale.coldfire.cdt.gcc.linux.cpp.compiler.debug.237929486" name="ColdFire Linux C++ Compiler" superClass="com.freescale.coldfire.cdt.gcc.linux.cpp.compiler.debug">
+								<inputType id="com.freescale.coldfire.gcc.toolchain.cpp.compiler.linux.base.input.958409831" superClass="com.freescale.coldfire.gcc.toolchain.cpp.compiler.linux.base.input"/>
+								<inputType id="cdt.managedbuilder.gnu.cpp.compiler.input.asmPreproc.143093994" superClass="cdt.managedbuilder.gnu.cpp.compiler.input.asmPreproc"/>
+								<inputType id="com.freescale.coldfire.gcc.toolchain.c.compiler.linux.base.input.1249538938" superClass="com.freescale.coldfire.gcc.toolchain.c.compiler.linux.base.input"/>
+							</tool>
+							<tool id="com.freescale.coldfire.cdt.gcc.linux.cpp.assembler.debug.1442010340" name="ColdFire Linux Application Assembler" superClass="com.freescale.coldfire.cdt.gcc.linux.cpp.assembler.debug">
+								<inputType id="cdt.managedbuild.tool.gnu.assembler.input.1068174816" superClass="cdt.managedbuild.tool.gnu.assembler.input"/>
+							</tool>
+							<tool id="com.freescale.coldfire.cdt.gcc.linux.cpp.preprocessor.debug.1487900890" name="ColdFire Linux Preprocessor" superClass="com.freescale.coldfire.cdt.gcc.linux.cpp.preprocessor.debug"/>
+							<tool id="com.freescale.coldfire.cdt.gcc.linux.cpp.disassembler.debug.65041035" name="ColdFire Linux Disassembler" superClass="com.freescale.coldfire.cdt.gcc.linux.cpp.disassembler.debug"/>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="Project_Headers.null.49356668" name="Project_Headers"/>
+	</storageModule>
+	<storageModule moduleId="refreshScope"/>
+</cproject>
